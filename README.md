@@ -1,14 +1,12 @@
 Castle-Defence
 ==============
-
-
 1 Герои
- Героите са три типа 
- -Melee
- -Range
- -Caster
- -Flyer
- -Repair
+ Героите са 6 типа 
+ -Melee ( has short range ) 
+ -Range ( has long range and can shoot from distance)
+ -Caster: has mana , can cast spells
+ -Flyer(fly over the ground, can pass throught keep walls)
+ -Repair( поправя повредените сгради , ще има update да може и да heal-va)
  -Gun Controller
  (Идея да не специален играч, а героя да може да се качи в оръдие за да може да избере по какво да бие)
  Всеки играч може да има по няколко героя. Ще могат да се сменят всяко ниво.
