@@ -2,12 +2,12 @@ Castle-Defence
 ==============
 1 Герои
  Героите са 6 типа 
- -Melee ( has short range ) 
- -Range ( has long range and can shoot from distance)
- -Caster: has mana , can cast spells
+ -Melee ( has short range, cannot fire to air units, big health , strong against range and casters, weak against flyers, even against melee) 
+ -Range ( has long range and can shoot from distance, cannot shoot from short range, low health, strong against meleee,flyers, weak vs caster, even range )
+ -Caster: (has mana , can cast spells
  -Flyer(fly over the ground, can pass throught keep walls)
  -Repair( поправя повредените сгради , ще има update да може и да heal-va)
- -Gun Controller
+ -* (optional) Gun Controller
  (Идея да не специален играч, а героя да може да се качи в оръдие за да може да избере по какво да бие)
  Всеки играч може да има по няколко героя. Ще могат да се сменят всяко ниво.
  
@@ -33,5 +33,5 @@ Castle-Defence
  На всяко ниво има брой противници, които трябва да се убият
  Преди всяко ниво може да се купуват добавки, герои и крепости. 
  И всяко ниво  можеш да избираш срещу какъв тип противници да се биеш
- Всяко минато ниво  се пази  и ще може да минава отново.
+ Всяко минато ниво  се пази  и ще може да минава отново.    
  Ниво се губи като ти избият героите
