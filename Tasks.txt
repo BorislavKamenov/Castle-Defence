@@ -1,10 +1,27 @@
 1 Създаване на модели на - Ники
-- герои
+- герои(Ники)
+  Melee
+  Range
+  Caster
+  Flyer
+  Repair
+  
 - поле
 - крепост
-- противници
+  First Lvl -Wooden keep
+  Second Lvl - Stone keep
+  Third Lvl -  Concrete keep
+  Forth Lvl - Future keep
+- противници( Борето)
+  Melee
+  Range
+  Caster
+  Flyer
 2 Логика върху моделите - Емо, Преслав 
 - ai for the enemies
 - movement of the heroes
 - fighting 
 - keep properties
+
+- Building objects to snap to the grid object while moving the mouse
+- Path Finding for the enemies.
