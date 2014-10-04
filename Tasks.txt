@@ -1,0 +1,10 @@
+1 Създаване на модели на - Ники
+- герои
+- поле
+- крепост
+- противници
+2 Логика върху моделите - Емо, Преслав 
+- ai for the enemies
+- movement of the heroes
+- fighting 
+- keep properties
